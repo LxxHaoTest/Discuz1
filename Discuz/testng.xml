@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+   <suite   name="Discuz">
+    <test name="test">
+        <classes>
+            <class name="testcase.DiscuzLogin"   />
+           <!--<class name="testcase.DiscuzPublish" />-->
+            <!--<class name="testcase.DiscuzResponse"/>-->
+        </classes>
+    </test>
+   </suite>

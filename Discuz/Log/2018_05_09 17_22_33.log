@@ -1,0 +1,12 @@
+[2018_05_09 17:23:07] [INFO] 加载谷歌驱动
+[2018_05_09 17:23:11] [INFO] 打开网址http://127.0.0.1/discuz/
+[2018_05_09 17:23:11] [INFO] 成功输入内容admin
+[2018_05_09 17:23:11] [INFO] 成功输入内容password
+[2018_05_09 17:23:12] [INFO] 成功点击
+[2018_05_09 17:23:12] [INFO] 开始查找元素：By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[1]/td[2]/h2/a
+[2018_05_09 17:23:13] [INFO] 找到了元素 [By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[1]/td[2]/h2/a]
+[2018_05_09 17:23:14] [INFO] 成功点击
+[2018_05_09 17:23:14] [INFO] 成功点击
+[2018_05_09 17:23:14] [INFO] 成功点击
+[2018_05_09 17:23:14] [INFO] 开始查找元素：By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[1]/td[2]/h2/a
+[2018_05_09 17:23:25] [ERROR] 超时!! 10 秒之后还没找到元素 [By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[1]/td[2]/h2/a]

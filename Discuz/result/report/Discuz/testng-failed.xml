@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Discuz]">
+  <test name="test">
+    <classes>
+      <class name="testcase.DiscuzLogin"/>
+      <class name="testcase.DiscuzPublish"/>
+    </classes>
+  </test> <!-- test -->
+  <test name="test(failed)">
+    <classes>
+      <class name="testcase.DiscuzPublish">
+        <methods>
+          <include name="publish"/>
+        </methods>
+      </class> <!-- testcase.DiscuzPublish -->
+      <class name="testcase.DiscuzLogin">
+        <methods>
+          <include name="setup"/>
+          <include name="terdown"/>
+        </methods>
+      </class> <!-- testcase.DiscuzLogin -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Discuz] -->

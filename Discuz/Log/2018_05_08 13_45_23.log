@@ -1,0 +1,10 @@
+[2018_05_08 13:45:32] [INFO] 加载谷歌驱动
+[2018_05_08 13:45:39] [INFO] 打开网址http://127.0.0.1/discuz/
+[2018_05_08 13:45:39] [INFO] 成功清除内容
+[2018_05_08 13:45:39] [INFO] 成功输入内容
+[2018_05_08 13:45:39] [INFO] 成功清除内容
+[2018_05_08 13:45:39] [INFO] 成功输入内容
+[2018_05_08 13:45:40] [INFO] 成功点击By.xpath: /html/body/div[5]/div/div[1]/form/div/div/table/tbody/tr[2]/td[3]/button
+[2018_05_08 13:45:42] [INFO] 成功点击By.xpath: /html/body/div[7]/div[3]/div[3]/div[1]/div/div[2]/table/tbody/tr[1]/td[2]/h2/a
+[2018_05_08 13:45:42] [INFO] 成功点击By.xpath: /html/body/div[7]/div[4]/div/div/div[4]/div[2]/form/table/tbody[2]/tr/td[2]/input
+[2018_05_08 13:45:43] [INFO] 成功点击By.linkText: 删除
